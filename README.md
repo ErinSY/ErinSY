@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=HASEOYUL(Erin)&desc=Frontend%20Developer&fontSize=40&fontAlignY=30&animation=fadeIn&descAlignY=60)
-<h3 align="center">👋 Hello! I'm Seoyul 🇰🇷 </h3>
+<h3 align="center" >👋 Hello! I'm Seoyul 🇰🇷 </h3>
 
 ## ✨ About Me 👩🏻‍💻 ✨ 
 <p>
