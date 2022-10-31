@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HASEOYUL(Erin)&desc=Frontend%20Developer&fontSize=70&fontAlignY=30&animation=fadeIn&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=HASEOYUL(Erin)&desc=Frontend%20Developer&fontSize=50&fontAlignY=30&animation=fadeIn&descAlignY=60)
 
 ## About Me 👩🏻‍💻  
 <p>
